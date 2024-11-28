@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  
+ background: linear-gradient(white ,rgb(0, 247, 255),white);
+ 
+ 
+}
+#bor
+{
+  border-color: black;
+}
+/* .shadow-3d {
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.2), -4px -4px 6px rgba(255, 255, 255, 0.5);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.shadow-3d:hover {
+  box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.2), -6px -6px 8px rgba(255, 255, 255, 0.5);
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(30, 144, 255, 0.5);
+} */
+/* .input {
+  max-width: 190px;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 18px;
+  color: #555;
+  padding: 15px 5px 10px 20px;
+  box-shadow: inset 8px 8px 8px #cbced1,
+              inset -8px -8px 8px #ffffff;
+  border-radius: 25px;
+}
+
+.input::placeholder {
+  color: #555;
+  transition: all 0.3s ease;
+}
+
+.input:focus::placeholder {
+  color: #999;
+} */
